@@ -1,0 +1,5 @@
+# Files
+*.txt
+
+# Folders
+.ipynb_checkpoints/
